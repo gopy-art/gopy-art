@@ -5,7 +5,7 @@
 [![just a text](https://img.shields.io/badge/security-🥱.😂-blue)](https://go.dev/dl/) 
 </div>
 
-<h1 align="center">⚡ Amirmohammad — Cybersecurity Specialist</h1>
+<h1 align="center">⚡ Cybersecurity Specialist</h1>
 <p align="center">🔒 Penetration Testing | 🛡️ Data Gathering | ⚙️ Security Automation</p>
 
 ---
